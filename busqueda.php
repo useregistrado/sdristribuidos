@@ -72,7 +72,8 @@
             <th scope="col">#</th>
             <th scope="col">Asignatura</th>
             <th scope="col">Nombre</th>
-            <th scope="col">Descargar</th>
+            <th scope="col">Descargar 1th Opción</th>
+            <th scope="col">Descargar 2nd Opción</th>
           </tr>
         </thead>
         <tbody>
@@ -81,13 +82,11 @@
             <td>Sociales</td>
             <td>Regiones de colombia</td>
             <td>
-
+              
               <a Download href="https://27d437d4df00.ngrok.io/Recursos/regiones.pdf" target="_blank">Descargar</a>
-
-              <h5>
-               Si no funciona el link para regiones usa esta alternativa
-              </h5>
-              <a Download href="https://alojamientoarchivos.000webhostapp.com/Recursos/regiones.pdf" target="_blank">Descargar</a>
+            </td>
+            <td>
+            <a Download href="https://alojamientoarchivos.000webhostapp.com/Recursos/regiones.pdf" target="_blank">Descargar</a>
             </td>
           </tr>
           <tr>
@@ -97,6 +96,9 @@
             <td>
               <a download href="https://27d437d4df00.ngrok.io/Recursos/operaciones.pdf" target="_blank">Descargar</a>
             </td>
+            <td>
+            <a Download href="https://alojamientoarchivos.000webhostapp.com/Recursos/operaciones.pdf" target="_blank">Descargar</a>
+            </td>
           </tr>
           <tr>
             <th scope="row">3</th>
@@ -104,6 +106,9 @@
             <td>Partes de un computador</td>
             <td>
               <a download href="https://27d437d4df00.ngrok.io/Recursos/partes.pdf" target="_blank">Descargar</a>
+            </td>
+            <td>
+            <a Download href="https://alojamientoarchivos.000webhostapp.com/Recursos/partes.pdf" target="_blank">Descargar</a>
             </td>
           </tr>
         </tbody>
