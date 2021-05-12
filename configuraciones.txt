@@ -1,0 +1,9 @@
+Para conectarme remotamente a una base de datos con ngrok por consola usamos el siguiente comando:
+mysql --protocol=tcp --host=2.tcp.ngrok.io --port 17941 --user=root -p
+
+Es necesario usar el protocolo tcp en ngrok con el comando:
+ngrok tcp 3306 para mysql
+
+y se debe omitir la cadena del enlace tcp:// o sino no funciona
+
+para que esto funcione

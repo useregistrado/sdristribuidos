@@ -1,0 +1,21 @@
+-Agregar Estudiante
+	-Se agregue
+	-No se agregue
+		-Ya existe
+		-bds fuera de servicio
+opr 1
+
+
+-Consultar Estudiante
+	-Se pueda dar la consulta
+		-Exista
+		-No exista
+	-No se de la consulta
+		-bds fuera de servicio
+opr 2
+
+-Respaldar datos sin copia
+	-No se pueda respaldar
+		-BD sin copia fuera de servicio
+	-Se pueda respaldar
+opr 3

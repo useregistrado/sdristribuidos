@@ -1,0 +1,19 @@
+{
+    "conexion":{
+        "server" : "4.tcp.ngrok.io:15372",
+        "server2": "localhost",
+        "serverL" :"localhost",
+        "user" : "root",
+        "user2" : "root",
+        "userL" : "root",
+        "password" : "",
+        "password2" : "",
+        "passwordL" : "",
+        "database" : "bd_colegio_estudiante",
+        "database2": "bd_colegio_estudiante",
+        "databaseL" :"bd_colegio_estudiante",
+        "port": "15372",
+        "port2": "3306",
+        "portL": "3306"
+    }
+}
